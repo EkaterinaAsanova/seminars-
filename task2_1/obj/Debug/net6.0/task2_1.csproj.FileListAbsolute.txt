@@ -1,0 +1,15 @@
+C:\Учеба\ПрактикаС#\task2_1\obj\Debug\net6.0\task2_1.csproj.AssemblyReference.cache
+C:\Учеба\ПрактикаС#\task2_1\obj\Debug\net6.0\task2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\ПрактикаС#\task2_1\obj\Debug\net6.0\task2_1.AssemblyInfoInputs.cache
+C:\Учеба\ПрактикаС#\task2_1\obj\Debug\net6.0\task2_1.AssemblyInfo.cs
+C:\Учеба\ПрактикаС#\task2_1\obj\Debug\net6.0\task2_1.csproj.CoreCompileInputs.cache
+C:\Учеба\ПрактикаС#\task2_1\bin\Debug\net6.0\task2_1.exe
+C:\Учеба\ПрактикаС#\task2_1\bin\Debug\net6.0\task2_1.deps.json
+C:\Учеба\ПрактикаС#\task2_1\bin\Debug\net6.0\task2_1.runtimeconfig.json
+C:\Учеба\ПрактикаС#\task2_1\bin\Debug\net6.0\task2_1.dll
+C:\Учеба\ПрактикаС#\task2_1\bin\Debug\net6.0\task2_1.pdb
+C:\Учеба\ПрактикаС#\task2_1\obj\Debug\net6.0\task2_1.dll
+C:\Учеба\ПрактикаС#\task2_1\obj\Debug\net6.0\refint\task2_1.dll
+C:\Учеба\ПрактикаС#\task2_1\obj\Debug\net6.0\task2_1.pdb
+C:\Учеба\ПрактикаС#\task2_1\obj\Debug\net6.0\task2_1.genruntimeconfig.cache
+C:\Учеба\ПрактикаС#\task2_1\obj\Debug\net6.0\ref\task2_1.dll
